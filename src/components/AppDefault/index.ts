@@ -1,4 +1,4 @@
-import { html, css } from "iares";
+import { css, html } from "iares";
 
 export const template = () => html`
   <div>
